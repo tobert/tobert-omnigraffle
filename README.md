@@ -14,3 +14,8 @@ Installation
 
 Copy the Tobert.gstencil to ~/Library/Application Support/OmniGraffle/Stencils/Tobert.gstencil
 
+Preview
+=======
+
+![preview](https://github.com/tobert/tobert-omnigraffle/raw/master/preview.png)
+
